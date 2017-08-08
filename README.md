@@ -1,6 +1,8 @@
 # Manually Mark Image Correspondence
 
-This is a simple tool to load 2 image. Mark correspondences (or any other clicks) and save it to file. 
+This is a simple gui tool to load 2 image. Mark correspondences (or any other clicks) and save it to file. 
+
+Might be useful for experiments with feature correspondence, face warping etc. 
 
 ## Requirements
 Opencv<br/>
